@@ -1,1 +1,0 @@
-# ProgrammingAdvancedForQA-RegularExam
